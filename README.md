@@ -1,0 +1,2 @@
+# squashTest
+squash test used
